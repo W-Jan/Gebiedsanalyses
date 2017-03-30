@@ -1,5 +1,5 @@
 # Gebiedsanalyses
-Gebiedsanalyses voor PAS
+Gebiedsanalyses voor PAS DPB
 
 Aangepast met MS Word
 
