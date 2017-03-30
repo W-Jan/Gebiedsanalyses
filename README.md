@@ -8,5 +8,6 @@ Edit versie 1
 
 Edit totaal iets anders dan versie 1
 
-## R Codezeeeeeee
+## R Code
 [R Code Tijdreeksen](Rcode/SelectieTijdreeksen.R)
+
