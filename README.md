@@ -10,4 +10,3 @@ Edit totaal iets anders dan versie 1
 
 ## R Code
 [R Code Tijdreeksen](Rcode/SelectieTijdreeksen.R)
-
